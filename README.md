@@ -1,2 +1,2 @@
 # SGHS-WebDesign-Repository
-For all of Gamer's SGHS Dreamweaver Projects.
+Hi! Welcome to my SGHS Dreamweaver Github repository. Theres nothing here right now, but there will be stuff here in the future!
